@@ -1,0 +1,1 @@
+Exercicios do teste para vaga "Desenvolvedor de Sistemas Jr. - São Paulo" da Target Sistemas
